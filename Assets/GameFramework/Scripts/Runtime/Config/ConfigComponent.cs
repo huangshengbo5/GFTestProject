@@ -404,5 +404,12 @@ namespace UnityGameFramework.Runtime
         {
             m_EventComponent.Fire(this, LoadConfigDependencyAssetEventArgs.Create(e));
         }
+        
+        private void AddGroup(string groupname,string content)
+        {
+            var dic = new List<string>name;
+            dic.add(groupname);
+        }
+        
     }
 }
