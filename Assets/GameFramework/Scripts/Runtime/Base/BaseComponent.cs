@@ -13,6 +13,8 @@ using UnityEngine;
 
 namespace UnityGameFramework.Runtime
 {
+
+  
     /// <summary>
     /// 基础组件。
     /// </summary>
@@ -20,6 +22,8 @@ namespace UnityGameFramework.Runtime
     [AddComponentMenu("Game Framework/Base")]
     public sealed class BaseComponent : GameFrameworkComponent
     {
+    
+        private static int CountNum1 = 100;
         private const int DefaultDpi = 96;  // default windows dpi
 
         private float m_GameSpeedBeforePause = 1f;
