@@ -24,6 +24,8 @@ namespace UnityGameFramework.Runtime
     {
     
         private static int CountNum1 = 100;
+        public static bool isLock = false;
+        private string contentStr = "CDN:file";
         private const int DefaultDpi = 96;  // default windows dpi
 
         private float m_GameSpeedBeforePause = 1f;
