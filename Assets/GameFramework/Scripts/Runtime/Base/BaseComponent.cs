@@ -31,6 +31,8 @@ namespace UnityGameFramework.Runtime
         private int counterNum2 = 10;
         private double num1 = 0.01;
         public string contentStrOne = " this is A Debug Message ";
+        
+        public int indexAAA = 1;
         private const int DefaultDpi = 96;  // default windows dpi
 
         private float m_GameSpeedBeforePause = 1f;
