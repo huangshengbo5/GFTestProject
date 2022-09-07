@@ -30,6 +30,9 @@ namespace UnityGameFramework.Runtime
         
         private int counterNum2 = 10;
         private double num1 = 0.01;
+        private int unreal = 1;
+  
+        
         public string contentStrOne = " this is A Debug Message ";
         
         public int indexAAA = 1;
