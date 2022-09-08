@@ -31,6 +31,7 @@ namespace UnityGameFramework.Runtime
         private int counterNum2 = 10;
         private double num1 = 0.01;
         private int unreal = 1;
+        private double IndexNum2 = 2.0;
   
         
         public string contentStrOne = " this is A Debug Message ";
