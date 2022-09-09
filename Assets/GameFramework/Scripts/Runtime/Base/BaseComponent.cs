@@ -43,6 +43,8 @@ namespace UnityGameFramework.Runtime
         
         public int indexAAA = 1;
         private const int DefaultDpi = 96;  // default windows dpi
+        
+        public index basd;
 
         private float m_GameSpeedBeforePause = 1f;
 
