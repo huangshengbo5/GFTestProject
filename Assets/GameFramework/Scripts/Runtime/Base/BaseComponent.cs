@@ -32,6 +32,7 @@ namespace UnityGameFramework.Runtime
         private double num1 = 0.01;
         private int unreal = 1;
         private double IndexNum2 = 2.0;
+        public float indexsdfsdfd;
   
         
         public string contentStrOne = " this is A Debug Message ";
