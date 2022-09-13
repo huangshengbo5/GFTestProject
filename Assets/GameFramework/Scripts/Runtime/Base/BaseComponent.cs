@@ -42,6 +42,7 @@ namespace UnityGameFramework.Runtime
         private static string ContentPrintStr = "Hello World!!1";
         public float indexdex;
         public int index12321;
+        private int double intDoubleIndex;
         
         public int indexNum1 = 2;
         public const double = 32;
