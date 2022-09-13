@@ -35,7 +35,7 @@ namespace UnityGameFramework.Runtime
         public float indexsdfsdfd;
         private float index1234;
         public int indexIndex;
-        
+        private int privateIndex;
   
         
         public string contentStrOne = " this is A Debug Message ";
