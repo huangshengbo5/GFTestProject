@@ -40,7 +40,7 @@ namespace UnityGameFramework.Runtime
         
         public string contentStrOne = " this is A Debug Message ";
         private static string ContentPrintStr = "Hello World!!1";
-        
+        public float indexdex;
         public int index12321;
         
         public int indexNum1 = 2;
