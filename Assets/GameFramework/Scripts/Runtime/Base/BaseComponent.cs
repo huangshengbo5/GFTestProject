@@ -23,8 +23,7 @@ namespace UnityGameFramework.Runtime
     public sealed class BaseComponent : GameFrameworkComponent
     {
     
-        private static int CountNum1 = 100;
-        public static bool isLock = false;
+       
         private string contentStr = "CDN:file";
         public float testNum = 10.0f;
         
