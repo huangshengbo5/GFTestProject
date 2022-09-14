@@ -43,6 +43,8 @@ namespace UnityGameFramework.Runtime
         public float indexdex;
         public int index12321;
         private int double intDoubleIndex;
+        public double indexqfgj;
+        public int sfd;
         
         public int indexNum1 = 2;
         public const double = 32;
