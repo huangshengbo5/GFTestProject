@@ -25,7 +25,7 @@ namespace UnityGameFramework.Runtime
     
        
         private string contentStr = "CDN:file";
-        public float testNum = 10.0f;
+      
         
         private int counterNum2 = 10;
         private double num1 = 0.01;
