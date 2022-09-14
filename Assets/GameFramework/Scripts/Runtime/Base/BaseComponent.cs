@@ -44,10 +44,6 @@ namespace UnityGameFramework.Runtime
         private int double intDoubleIndex;
         public double indexqfgj;
         public int sfd;
-        
-        public int indexNum1 = 2;
-        public const double = 32;
-        public int indexAAA = 1;
         private const int DefaultDpi = 96;  // default windows dpi
         
         public index basd;
